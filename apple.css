@@ -1,0 +1,207 @@
+body {
+    margin:0;
+    padding: 0;
+    display: block;
+    font-size: 17px;
+    font-weight: 460;
+    font-family: sans-serif;
+    overflow-x: hidden;
+
+
+}
+nav{
+    display: flex;
+     height: 45px;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     font-size: 65%;
+     background-color:#1d1d1f;
+}
+nav ul{
+    display: flex;
+}
+nav ul{
+    text-decoration: none ;
+    list-style:none;
+}
+nav ul li a{
+    padding: 20px;
+    color: whitesmoke;
+}
+.a1.h1{
+    text-align: center;
+}
+.A{
+    height: auto;
+    position: relative;
+    background-color: aquamarine;
+}
+.a1{
+    position:absolute;
+    top: 40%;
+    left: 60%;
+    right: 20%;
+}
+.link{
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+    opacity: 0.4;
+}
+a:hover{
+    opacity:inherit;
+}
+.B{
+    font-size: medium;
+    height: auto;
+    position: relative;
+    margin-top: -1%
+}
+.b1{
+    color: aliceblue;
+    background-color: none;
+    position: absolute;
+    top: 35%;
+    left: 12%
+}
+.link B{
+    background-color: black
+}
+.B.h1{
+    
+    margin-bottom:-20%;
+}
+.C{
+    background-color: none;
+    position: relative;
+
+}
+.c3{
+    position:absolute;
+    top: 75%;
+    left: 44%;
+}
+.c1{
+    position:absolute;
+    top: 81%;
+    left: 36%;
+}
+.D{
+    background-color:rgb(34, 34, 85);
+    position: relative;
+    color: white;
+}
+.d1{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+}
+.button{
+    position: absolute;
+    top:70%;
+    left:50%
+}
+.gr1{
+    height: 1500px;
+    background-color: whitesmoke;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    grid-gap: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.P{ color: aliceblue;
+    background-color:black;
+    background-image: url(P1.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.p2{
+    position: absolute;
+    left: 40%;
+}
+.Q{
+    background-image: url(Q.png);
+    background-color: rebeccapurple;
+    position: relative;
+}
+.q2{
+    position: absolute;
+    left: 40%;
+}
+.R{
+    background-image: url(R.png);
+    background-color:yellow;
+    position: relative;
+}
+.r2{
+    position:absolute;
+    left: 40%;
+
+}
+.S{
+    color: white;
+    background-image: url(S.png);
+    background-color: green;
+    position: relative;
+}
+.s2{
+    position:absolute;
+    left: 40%;
+}
+.L{ text-align: center;
+    color: azure;
+    height: 400px;
+    background-image: url(L.png);
+    position: relative;
+}
+.Ll{
+    position: absolute;
+    top: 10%;
+    left: 36%;
+}
+.para{
+    height: auto;
+    background-color: whitesmoke;
+    margin-top: 20px;
+}
+.ipara{
+    height: auto;
+    margin-left: 10rem;
+    margin-right: 10rem;
+
+}
+.lst{
+    -moz-text-decoration-color: black;
+    font-size: small;
+    font-style:normal;
+    font-stretch:expanded;   
+    margin-left: 10rem;
+    margin-right: 10rem;
+    display: grid;
+    grid-template-columns:20% 20% 20% 20% 20% ;
+}
+footer ul li a{
+    color: black;
+}
+footer ul {
+ list-style-type: none;
+}
+footer ul li {
+    margin-bottom:10px;
+}
+#px {
+    border-radius: 42%;
+    height: 29px;
+    background-color: blanchedalmond;
+}
+.lf{
+    margin-left: 11rem;
+    width: 64rem;;
+}
